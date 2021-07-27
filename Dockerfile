@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM python:3.8-slim-buster
 USER root
 
 COPY ./app /app
