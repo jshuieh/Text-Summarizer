@@ -21,15 +21,15 @@ from flask import jsonify
 from utils import get_base_url, allowed_file, and_syntax
 
 # import stuff for our models
-import torch
-from aitextgen import aitextgen
+#import torch
+#from aitextgen import aitextgen
 
 '''
 Coding center code - comment out the following 4 lines of code when ready for production
 '''
 # load up the model into memory
 # you will need to have all your trained model in the app/ directory.
-ai = aitextgen(to_gpu=False, model=r"EleutherAI/gpt-neo-125M")
+#ai = aitextgen(to_gpu=False, model=r"EleutherAI/gpt-neo-125M")
 
 # setup the webserver
 # port may need to be changed if there are multiple flask servers running on same server
@@ -84,7 +84,7 @@ if __name__ == "__main__":
     coding center code
     '''
     # IMPORTANT: change the cocalcx.ai-camp.org to the site where you are editing this file.
-    website_url = 'cocalcx.ai-camp.org'
+    website_url = 'coding.ai-camp.dev'
     print(f"Try to open\n\n    https://{website_url}" + base_url + '\n\n')
 
     app.run(host = '0.0.0.0', port=port, debug=True)

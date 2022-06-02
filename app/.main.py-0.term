@@ -1,0 +1,502 @@
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ [K]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ python3 main.pyu
+python3: can't open file 'main.pyu': [Errno 2] No such file or directory
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ python3 main.pyu[K
+Try to open
+
+    https://coding.ai-camp.org/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://coding.ai-camp.org/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 942-716-656
+ * Detected change in '/projects/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/nlp-writer-scaffold/app/main.py', reloading
+ * Restarting with stat
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 942-716-656
+^C]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ python3 main.py
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 942-716-656
+127.0.0.1 - - [27/May/2022 01:14:54] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:55] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:55] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:55] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:55] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:55] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:55] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/lotr.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:55] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:55] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:14:55] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:14:55] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:14:55] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:14:55] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:14:57] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:58] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:14:58] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:58] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:14:58] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:14:58] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:14:58] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:14:58] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:28] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/lotr.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:15:29] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:15:29] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:15:29] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:15:30] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:15:30] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:17:43] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:17:43] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:17:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:17:43] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:17:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:17:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:17:43] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:17:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:25] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/lotr.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:26] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:49] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:49] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:49] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:49] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:30:56] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:30:56] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:56] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:56] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:56] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:56] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:56] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:30:56] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:46] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:47] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:54] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:37:55] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:55] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:55] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:55] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:55] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:55] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:55] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:56] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:37:57] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:41:59] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:41:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:41:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:41:59] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:41:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:41:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:42:00] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:42:00] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:42:00] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:42:00] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:42:00] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:42:00] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:42:00] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:44:10] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:44:10] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:44:11] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:44:16] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:44:16] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:16] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:16] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:16] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:16] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:16] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:44:16] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:39] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:46:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:40] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:46:40] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:40] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:46:40] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:46:40] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:40] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:46:40] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:46:43] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:46:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:43] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:48] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:46:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:46:49] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:12] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:47:12] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:47:14] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:47:14] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:14] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:15] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:15] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:15] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:15] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:47:15] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:25] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:48:25] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:25] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:25] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:25] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:25] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:27] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:48:27] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:27] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:27] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:27] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:27] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:48:35] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:35] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:35] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:35] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:48:35] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:01] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:49:01] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:01] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:01] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:01] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:01] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:33] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:49:33] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:33] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:49:33] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:33] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:33] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:34] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:49:34] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:34] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:34] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:49:34] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:49:34] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:49:34] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:49:36] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:49:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:49:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:06] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:52:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:06] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:52:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:52:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:52:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:52:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:52:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:52:09] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:52:09] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:09] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:09] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:09] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:09] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:09] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:52:09] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:13] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:54:13] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:13] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:13] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:13] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:13] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:13] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:13] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:18] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 01:54:18] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:18] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:18] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:18] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:18] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:19] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:19] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:54:19] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:54:19] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:54:19] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 01:54:19] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 01:54:19] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ [K]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ python3 main.py
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 942-716-656
+127.0.0.1 - - [27/May/2022 02:00:50] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:00:50] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:00:50] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:00:50] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:00:50] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:00:50] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:00:51] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:00:51] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:00:51] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:00:51] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:00:51] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:00:51] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:00:51] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:06] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:02:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:06] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:07] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:47] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:02:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:48] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:48] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:48] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:48] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:48] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:48] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:48] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/May/2022 02:02:52] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:02:52] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:52] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:52] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:52] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:52] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:54] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:02:54] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:54] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:54] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:54] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:02:54] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:32] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:03:32] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:32] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:32] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:32] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:32] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:34] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:03:34] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:34] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:34] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:34] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:34] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:36] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:03:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:36] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:38] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:03:38] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:38] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:38] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:38] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:38] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:38] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:03:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:39] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:40] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:03:40] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:40] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:40] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:40] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:03:40] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:05:23] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [27/May/2022 02:05:23] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:05:23] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:05:23] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:05:23] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/May/2022 02:05:23] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ [K]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ [K]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ pyo[Kh[Kthon3 main.py
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 942-716-656
+127.0.0.1 - - [02/Jun/2022 01:28:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/elves.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/17013260-0.jpeg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/0fc6083eccf5e0293dc8951d49eb6c469251119911892127dfc51512e72cd7f87823954d696606f861c7a9939c898f122a9582ed4dd91c95b69c96_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/a4c355262897d45cdd27e601688f31024b088194c4efa5bf43eab181df9559972da59117d6f22d59730b49708ca4d04476ee1834546500527d9a20_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/5201f2386aa78cd83aa134ecab8cc9d52601e5a99ab252baf9961514e36717018a0350a5e4afac407d3a8116373263e6a4519c8a8836e23d357fda_1280.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [02/Jun/2022 01:28:35] "[33mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/IMG_91832.jpg HTTP/1.1[0m" 404 -
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ python3 man[Kin.py
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 942-716-656
