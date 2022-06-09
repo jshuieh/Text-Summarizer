@@ -500,3 +500,121 @@ Try to open
 
  * Debugger is active!
  * Debugger PIN: 942-716-656
+127.0.0.1 - - [02/Jun/2022 01:39:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:39:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:39:29] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:39:29] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:39:29] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:39:29] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:39:30] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/books.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:08] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:08] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:08] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:08] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:08] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:08] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:11] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:11] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:11] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:11] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:11] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:11] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:11] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:11] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:47] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:47] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:47] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:47] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:53] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:50:53] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:53] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:53] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:53] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:50:53] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:52:04] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:52:04] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:52:04] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:52:05] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:52:05] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:52:05] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ [K]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ python3 main.py
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 445-047-258
+127.0.0.1 - - [02/Jun/2022 01:58:06] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 01:58:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:58:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:58:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:58:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 01:58:07] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 02:01:20] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 02:01:20] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2022 02:01:20] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 02:01:21] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 02:01:21] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 02:01:21] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [02/Jun/2022 02:01:23] "GET /e0177a12-7994-4e3b-bb86-]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ [K]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ [K]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ pyto[Khon3 main.py
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://coding.ai-camp.dev/e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 942-716-656
+127.0.0.1 - - [09/Jun/2022 01:50:40] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:50:40] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:50:40] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:50:41] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:50:41] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:50:41] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:51:08] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/results HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:51:08] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Write-your-story-with-AI.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:51:08] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [09/Jun/2022 01:51:08] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [09/Jun/2022 01:51:08] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/duck2.gif HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:51:08] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [09/Jun/2022 01:51:08] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [09/Jun/2022 01:51:08] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/text_gen.js HTTP/1.1" 200 -
+
+
+
+127.0.0.1 - - [09/Jun/2022 01:51:59] "GET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jun/2022 01:51:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [09/Jun/2022 01:51:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [09/Jun/2022 01:51:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/images/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [09/Jun/2022 01:51:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [09/Jun/2022 01:51:59] "[36mGET /e0177a12-7994-4e3b-bb86-c6e9758ad4fa/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
