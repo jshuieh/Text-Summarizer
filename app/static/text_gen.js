@@ -12,13 +12,12 @@ $(document).ready(function() {
         var url = 'generate_text'
 
         $('#loading').show();
-
-        $.post(
-            url, 
-            {
-                'prompt': prompt
-            },
-            function(data) {
+        $.ajax({
+            type: "POST",
+            url: url, 
+            data: {'prompt': prompt},
+            timeout: 100000,
+            success: function(data) {
                 console.log(data);
                 var list_html = "";
                 for (var t = 0; t < data['generated_ls'].length; t++) {
@@ -27,10 +26,10 @@ $(document).ready(function() {
                 }
 
                 $("#loading").hide();
+            },
+            error: function() {
+              alert( "There is something unexpected happened. Email hello@ai-camp.org to report your findings." );
             }
-
-        ).fail(function() {
-          alert( "There is something unexpected happened. Email hello@ai-camp.org to report your findings." );
         });
 
     });

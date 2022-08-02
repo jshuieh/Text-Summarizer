@@ -19,6 +19,7 @@ from flask import Flask, flash, request, redirect, url_for, render_template
 from flask import send_from_directory
 from flask import jsonify
 from utils import get_base_url, allowed_file, and_syntax
+from transformers import pipeline
 
 # import stuff for our models
 #import torch
@@ -36,6 +37,7 @@ Coding center code - comment out the following 4 lines of code when ready for pr
 port = 12345
 base_url = get_base_url(port)
 app = Flask(__name__, static_url_path=base_url+'static')
+summarizer = pipeline("summarization", model='google/pegasus-xsum')
 
 '''
 Deployment code - uncomment the following line of code when ready for production
@@ -65,15 +67,16 @@ def generate_text():
     """
 
     prompt = request.form['prompt']
+    prompt = prompt.split()
     if prompt is not None:
-        generated = ai.generate(
-            n=3,
-            batch_size=3,
-            prompt=str(prompt),
-            max_length=50,
-            temperature=0.9,
-            return_as_list=True
-        )
+        generated = []
+        while len(prompt) > 0:
+            print(len(prompt))
+            idx = 400 if len(prompt) > 400 else len(prompt)
+            candidate = summarizer(' '.join(prompt[:idx]), min_length=10, max_length=30)
+            prompt = prompt[idx:]
+            generated.append(candidate[0]['summary_text'])
+        print(generated)
 
     data = {'generated_ls': generated}
 
